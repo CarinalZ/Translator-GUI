@@ -21,8 +21,8 @@
 
 # Скриншоты
 
-![Скриншот](Translator v1.1.0.png)
-![Скриншот](Translator v1.1.0 (2).png)
+![Скриншот](images/Translatorv1.1.0.png)
+![Скриншот](Translatorv1.1.0(2).png)
 
 # Соц. сети:
 - Telegram: https://t.me/carinalproject
